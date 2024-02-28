@@ -7,7 +7,8 @@ This is a simple weather app that uses the OpenWeatherMap API to get the current
 1. download the apk in the "APK" folder
 2. install the apk on your android device
 3. make sure you have an internet connection and location services enabled
-4. open the app and wait for the weather to load
+4. allow the app to use your location
+5. open the app and wait for the weather to load
 
 
 ## Screen
